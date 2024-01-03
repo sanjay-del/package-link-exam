@@ -1,0 +1,12 @@
+{
+  "name": "@sample-sdk/sample-a",
+  "version": "0.0.1",
+  "main": "_/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node -r source-map-support/register _/index.js"
+  },
+  "dependencies": {
+    "typescript": "5.2.2"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "core",
+  "version": "0.0.1",
+  "main": "_/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node -r source-map-support/register _/index.js"
+  },
+  "dependencies": {
+    "typescript": "5.2.2",
+    "fastify": "^4.25.2",
+    "dotenv": "^16.1.4",
+    "@sample-sdk/sample-a": "../sdk/sample-a",
+    "@sample-sdk/sample-b": "../sdk/sample-b"
+  },
+  "devDependencies": {
+    "@types/node": "18.14.0"
+  }
+}

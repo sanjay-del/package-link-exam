@@ -1,0 +1,12 @@
+node_modules/
+pnpm-lock.*
+.npmrc
+.gitignore
+.prettierignore
+.env
+.github/
+*.yaml
+*.yml
+*.json
+*.md
+*/_/*

@@ -1,0 +1,10 @@
+.vscode/
+.idea/
+_/
+.env
+node_modules/
+tsconfig.tsbuildinfo
+.wallet
+samconfig.toml
+.aws-sam
+play/

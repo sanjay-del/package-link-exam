@@ -1,0 +1,5 @@
+packages:
+  - "./"
+  - "./packages/sdk/sample-a"
+  - "./packages/sdk/sample-b"
+  - "./packages/core"

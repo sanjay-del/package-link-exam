@@ -1,0 +1,10 @@
+{
+    "files": [],
+    "references": [
+      { "path": "./packages/sdk/sample-a"},
+      {"path": "./packages/sdk/sample-b"},
+      {"path": "./packages/core"}
+    ],
+    "exclude": []
+  }
+  
