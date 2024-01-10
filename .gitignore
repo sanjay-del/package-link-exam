@@ -8,3 +8,4 @@ tsconfig.tsbuildinfo
 samconfig.toml
 .aws-sam
 play/
+packages/sdk/

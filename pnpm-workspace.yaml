@@ -3,3 +3,7 @@ packages:
   - "./packages/sdk/sample-a"
   - "./packages/sdk/sample-b"
   - "./packages/core"
+  # - "./packages/sdk/user"
+  # - "./packages/sdk/prisma"
+  - "./packages/nest-sample"
+  - "./packages/test-new"

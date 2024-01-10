@@ -8,6 +8,7 @@ const server: FastifyInstance = Fastify();
 server.get('/testA', async (req, res) => {
   res.send(await sdkAInstance.functionA());
 });
+
 server.get('/testB', async (req, res) => {
   res.send(await sdkBInstance.functionB());
 });

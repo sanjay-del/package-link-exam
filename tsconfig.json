@@ -3,7 +3,10 @@
     "references": [
       { "path": "./packages/sdk/sample-a"},
       {"path": "./packages/sdk/sample-b"},
-      {"path": "./packages/core"}
+      {"path": "./packages/core"},
+      // {"path": "./packages/sdk/user"},
+      {"path": "./packages/sdk/prisma"},
+      {"path": "./packages/nest-sample"}
     ],
     "exclude": []
   }
